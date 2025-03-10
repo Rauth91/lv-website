@@ -1,0 +1,20 @@
+[
+    {
+        "id": "product1",
+        "name": "Classic Bourbon",
+        "description": "A smooth, balanced bourbon with rich oak and caramel notes.",
+        "image": "https://via.placeholder.com/300x200.png?text=Classic+Bourbon"
+    },
+    {
+        "id": "product2",
+        "name": "Premium Reserve",
+        "description": "Aged to perfection for a deep, bold flavor with a touch of vanilla.",
+        "image": "https://via.placeholder.com/300x200.png?text=Premium+Reserve"
+    },
+    {
+        "id": "product3",
+        "name": "Limited Edition",
+        "description": "Small-batch, hand-selected casks for a rare and unique flavor experience.",
+        "image": "https://via.placeholder.com/300x200.png?text=Limited+Edition"
+    }
+]
